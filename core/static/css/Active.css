@@ -1,0 +1,16 @@
+.modern {
+    border: 0;
+    padding: 10px 25px;
+    background: linear-gradient(140deg, rgba(80, 195, 242, 1) 0%, rgb(93, 6, 165) 50%, rgb(49, 4, 87) 100%);
+    color: #fff;
+    border-radius: 5px;
+    font-size: 18px;
+    text-shadow: 0 1px #33333380;
+    box-shadow: 0 2px 3px 1px #33333320;
+    transition: .5s;
+  }
+.modern:hover {
+    background: linear-gradient(140deg, rgba(80, 195, 242, 1) 0%, rgb(93, 6, 165) 50%, rgb(49, 4, 87) 100%);
+    transform: translateY(-3px);
+    box-shadow: 0 10px 10px 0px #bbb;
+}

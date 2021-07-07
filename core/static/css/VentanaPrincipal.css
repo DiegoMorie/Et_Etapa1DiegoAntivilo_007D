@@ -1,0 +1,49 @@
+.Mark{
+    color:red;
+    text-align: center;
+    font-family:'Londrina Shadow';
+}
+
+
+.titulos{
+    font-family:'Impact', 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    color:lightgray;
+    text-align: center;
+}
+
+body{
+    background-image: url("../img/PixelArt.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.cajasT{
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.fakeimg{
+    aspect-ratio: initial;
+    background-attachment: fixed;
+    width: 99%;
+    height: auto;
+}
+
+.noticiasRelleno{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgba(175, 0, 0, 0.76);
+    text-align: center;
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
